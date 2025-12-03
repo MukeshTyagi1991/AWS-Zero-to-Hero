@@ -35,3 +35,7 @@ Proficiency in AWS pricing models is a vital skill for AWS Solution Architects.
 
 🔗 Please Check the AWS Calculator for estimate your cost for a specific instance type / services for a particular region. 
 https://calculator.aws/#/addService
+
+Instance types:-
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-types.html
