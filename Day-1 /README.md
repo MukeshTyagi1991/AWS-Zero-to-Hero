@@ -43,6 +43,9 @@ Instance types:-
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-types.html
 
 
+https://aws.amazon.com/about-aws/global-infrastructure/
+
+
 <img width="1465" height="558" alt="image" src="https://github.com/user-attachments/assets/fdf216a7-75fa-488d-b693-48a3bdf99b09" />
 
 
