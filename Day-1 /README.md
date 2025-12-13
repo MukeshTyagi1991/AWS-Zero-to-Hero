@@ -61,3 +61,6 @@ How to get free credits from AWS:-
 3. AWS Community Builders
 <img width="1071" height="664" alt="image" src="https://github.com/user-attachments/assets/463f8089-9017-4cf4-b9cd-86e1e7e53320" />
 
+AWS Certified cloud Practitioner syllabus:-
+
+https://prajwals.notion.site/AWS-Certified-Cloud-Practitioner-Syllabus-3a907c67a7b044419b36e6e19a9c6195
