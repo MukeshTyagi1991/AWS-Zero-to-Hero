@@ -59,7 +59,8 @@ How to get free credits from AWS:-
 1. AWS online events
 2. AWS Customer council
 3. AWS Emerging Talent Community
-4. AWS Community Builders
+4. AWS free traing and certification
+5. AWS Community Builders
 <img width="1071" height="664" alt="image" src="https://github.com/user-attachments/assets/463f8089-9017-4cf4-b9cd-86e1e7e53320" />
 
 AWS Certified cloud Practitioner syllabus:-
