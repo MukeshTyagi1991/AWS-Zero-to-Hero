@@ -49,5 +49,15 @@ https://aws.amazon.com/about-aws/global-infrastructure/
 <img width="1465" height="558" alt="image" src="https://github.com/user-attachments/assets/fdf216a7-75fa-488d-b693-48a3bdf99b09" />
 
 
+https://prajwals.notion.site/AWS-Certified-Cloud-Practitioner-Syllabus-3a907c67a7b044419b36e6e19a9c6195
+
+
 <img width="1075" height="877" alt="image" src="https://github.com/user-attachments/assets/8c50c2ed-d6d0-4883-82ea-ed4f23d13d79" />
+
+
+How to get free credits from AWS:-
+1. AWS online events
+2. AWS Customer council
+3. AWS Community Builders
+<img width="1071" height="664" alt="image" src="https://github.com/user-attachments/assets/463f8089-9017-4cf4-b9cd-86e1e7e53320" />
 
