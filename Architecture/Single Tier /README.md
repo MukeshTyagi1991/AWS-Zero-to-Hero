@@ -20,3 +20,14 @@ https://app.diagrams.net/?splash=0&libs=aws4#LAWS.drawio#%7B%22pageId%22%3A%220I
 
 
 
+## Auto Scaling
+
+
+<img width="1320" height="744" alt="image" src="https://github.com/user-attachments/assets/7f514a47-7893-4727-94c6-c0350058e259" />
+
+
+https://app.diagrams.net/?splash=0&libs=aws4
+
+
+
+
