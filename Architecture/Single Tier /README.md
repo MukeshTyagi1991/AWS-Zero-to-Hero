@@ -31,3 +31,13 @@ https://app.diagrams.net/?splash=0&libs=aws4
 
 
 
+
+
+
+## ECR and ECS
+<img width="1195" height="630" alt="image" src="https://github.com/user-attachments/assets/b10b53dd-2b29-47f3-b964-92f356e408a0" />
+
+
+
+
+
