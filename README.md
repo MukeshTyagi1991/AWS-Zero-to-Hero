@@ -79,6 +79,11 @@ Depth me Jaoo
  https://docs.google.com/spreadsheets/d/1eE-NhZQFr545LkP4QNhTgXcZTtkMFeEPNyVXAflXia0/edit?gid=2073716385#gid=2073716385
 
 
+ everthing fails all the times---amazon CTO
+
+ :- Temporal.io ( what if your code never fails ) ----
+
+
  utho cloud plateform ---Manoj Dhanda
 
  
