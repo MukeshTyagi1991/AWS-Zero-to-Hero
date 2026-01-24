@@ -57,3 +57,18 @@ Depth me Jaoo
  . Social Media Presence ( Linkedin , Github , Twitter)
  
  . Mock Interview , Prepartaions, Group Studies 
+
+
+ # OSS ( Open-Source ) -- Not Just Free
+ . Contribute 
+ . Learn
+ . Build.
+ . Learn in Public 
+ . Try running it on Local
+
+ 90 % se zyadda application Run on linux
+ phir OSS tools seekhna hai
+
+ Linux --- Git ----OSSS
+
+ 
