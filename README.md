@@ -48,7 +48,7 @@ Depth me Jaoo
 # How ?
  # Secrets to Sucess
  
- . Hands -on Linux, Open Source Tools (k8s--2014 --Goggle)
+ . Hands -on Linux, Open Source Tools (k8s--2014 --Goggle) ( Linux , Git / Git Hub )
  
  . Projects, Blogs , 90 Days of DevOps
  
