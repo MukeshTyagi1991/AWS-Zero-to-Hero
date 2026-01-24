@@ -6,6 +6,7 @@ Learning with Mukesh
 
 # Mission
 . To Take India Forward in the IT sector--Take this employbility rate Higher !
+to take a job in AWS or Atlassian (Santosh Hendry)
 
 # Why
 I am on 3 month mission to Upskill myself and clear the fundamental :-
