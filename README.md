@@ -15,8 +15,8 @@ DevOps /Cloud /AI /Kubenteres/ Docker
 Depth me Jaoo
 
 # How
-.Live Learning is the key
-.Live Notes + Assignments + Projects + Scenarion based questions 
+. Live Learning is the key
+. Live Notes + Assignments + Projects + Scenarion based questions 
 
 # DevOPS
 # Why ?
@@ -26,7 +26,7 @@ Depth me Jaoo
  . How does the End user get that solutions ?
 
  90s-2000s [ Agile -- Sprint ] 
- .Software dev (wrire a code)--->code zip (compress) --> Ops (operations)
+ . Software dev (wrire a code)--->code zip (compress) --> Ops (operations)
  . Ops Team --> System Admin --->> Network Admin--->>Datbase Admin--->>> Tester/ QA Engineer 
  . Server / App is served to End User 
 
@@ -42,13 +42,18 @@ Depth me Jaoo
  - Automate (repeated task automate ) : Python / Shell
 
 # What is Devops 
-   DevOps
-   Culture , Mindset to reduce the time to market, collaborate with development operation team by reducing the time to market, automating the repeatated task and scale to end users.
+   DevOps:
+   . Culture , Mindset to reduce the time to market, collaborate with development operation team by reducing the time to market, automating the repeatated task and scale to end users.
  
 # How ?
- Secrets to Sucess
+ # Secrets to Sucess
+ 
  . Hands -on Linux, Open Source Tools (k8s--2014 --Goggle)
+ 
  . Projects, Blogs , 90 Days of DevOps
+ 
  . case Studies and assignments
+ 
  . Social Media Presence ( Linkedin , Github , Twitter)
+ 
  . Mock Interview , Prepartaions, Group Studies 
